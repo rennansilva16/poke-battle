@@ -1,0 +1,1 @@
+{"version":3,"file":"IPokemon.d.ts","sourceRoot":"","sources":["../../src/interfaces/IPokemon.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,WAAW,EAAE,MAAM,sBAAsB,CAAC;AACnD,OAAO,EAAE,WAAW,EAAE,MAAM,eAAe,CAAC;AAE5C,MAAM,WAAW,QAAQ;IACrB,IAAI,EAAE,MAAM,CAAC;IACb,IAAI,EAAE,WAAW,CAAC;IAClB,cAAc,EAAE,WAAW,CAAC;IAC5B,iBAAiB,EAAE,WAAW,CAAC;CAElC"}

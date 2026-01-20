@@ -1,0 +1,19 @@
+{
+  "name": "Laura",
+  "pokemons": [
+    {
+      "name": "Squirtle",
+      "type": "Água",
+      "baseAtributtes": {
+        "strength": 4,
+        "defense": 5,
+        "energy": 6
+      },
+      "currentAtributtes": {
+        "strength": 0,
+        "defense": 0,
+        "energy": 0
+      }
+    }
+  ]
+}

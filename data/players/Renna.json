@@ -1,0 +1,19 @@
+{
+  "name": "Renna",
+  "pokemons": [
+    {
+      "name": "Charmander",
+      "type": "Fogo",
+      "baseAtributtes": {
+        "strength": 6,
+        "defense": 3,
+        "energy": 5
+      },
+      "currentAtributtes": {
+        "strength": 0,
+        "defense": 0,
+        "energy": 0
+      }
+    }
+  ]
+}
